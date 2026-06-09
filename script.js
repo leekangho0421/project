@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const inputElement = document.getElementById('todo-input');
 const buttonElement = document.getElementById('add-btn');
 const todoListElement = document.getElementById('todo-list');
@@ -93,7 +92,3 @@ function loadTodos() {
 
 // 브라우저를 켜자마자 가장 먼저 저장된 데이터를 불러옵니다.
 loadTodos();
-=======
-const add = (a, b) => a + b;
-const sub = (a, b) => a-b;
->>>>>>> ca5ca47a604be555a48eaea616e3af8f940fa722
